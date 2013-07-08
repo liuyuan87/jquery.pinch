@@ -10,6 +10,10 @@ Pinch Zoom specific elements while the rest of the page stays unaffected.
 
 ## Get on with it.
 
+### Meta tags (html)
+
+    <meta content='user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi' name='viewport'>
+
 ### Markup (html)
     
     <div class='pinch'>
