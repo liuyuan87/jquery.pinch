@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>icon@2x</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0,0 L0,144 L144,144 L144,0 L0,0 Z M0,0" id="Rectangle 1" fill="#E1E261"></path>
+        <path d="M72,15 L112.305087,31.6949135 L129,72 L112.305087,112.305087 L72,129 L31.6949135,112.305087 L15,72 L31.6949135,31.6949135 L72,15 Z M72,15" id="Polygon 1" fill="#E26262"></path>
+    </g>
+</svg>
