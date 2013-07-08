@@ -8,8 +8,11 @@
 
 
     $.fn.pinch = function(event) {
-        var origin = this.data('pinch'),
-            delta = {
+        var origin = this.data('pinch');
+        if (!origin) {
+            origin = {scale: 1, x: 0, y: 0};
+        }
+        var delta = {
                 scale: origin.scale * event.gesture.scale,
                 x: origin.x + event.gesture.deltaX,
                 y: origin.y + event.gesture.deltaY
